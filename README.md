@@ -9,6 +9,6 @@ Features Included In This Edit/Update:
 
 -Option to close & re-open url bar while browsing.
 
-• Beautiful UI Update:
+• Beautiful UI Update. v1.0:
 
 -Light green letters and white dev links with light blue search bars all on top of a black background.
