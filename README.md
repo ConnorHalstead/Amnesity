@@ -7,7 +7,7 @@ Features Included In This Edit/Update:
 
 • Useful Addons v1.0:
 
-- Option to close & re-open url bar while browsing.
+-Option to close & re-open url bar while browsing.
 
 • Beautiful UI Update:
 
